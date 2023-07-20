@@ -1,11 +1,11 @@
-Credit project - guidelines 
+# Credit project - guidelines 
 
-Data
+## Data
 The data comes from the website (http://archive.ics.uci.edu/ml/datasets/Adult); this is a publicly available dataset used in machine-learning projects.
-Purpose
+## Purpose
 To develop a model (logistic regression) that predicts a person's income (under 50k per year or over 50k per year) from the data
 
-Tasks:
+## Tasks:
   In the type_employer column:
 
   Replace the entries "Federal-gov" and "Local-gov" with "SL-gov"
